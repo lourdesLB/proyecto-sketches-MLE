@@ -6,7 +6,7 @@ Este repositorio alberga el trabajo final para la asignatura de Machine Learning
 
 ## Contenido completo
 
-Debido a las limitaciones de almacenamiento de GitHub, el contenido completo del proyecto, incluyendo código, datasets, generaciones del modelo, documentación y presentación, se encuentra disponible en el siguiente enlace de OneDrive [1]: https://uses0-my.sharepoint.com/personal/marlinbar_alum_us_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmarlinbar%5Falum%5Fus%5Fes%2FDocuments%2Fproyecto%2Dsketches%2DMLE&ga=1
+Debido a las limitaciones de almacenamiento de GitHub, el contenido completo del proyecto, incluyendo código, datasets, generaciones del modelo, documentación y presentación, se encuentra disponible en el siguiente enlace de OneDrive [1]: https://uses0-my.sharepoint.com/:f:/g/personal/marlinbar_alum_us_es/Eo56eNZ_XbVDkNXiG9Wfzj0B1PI-gS8D7dJdvsmv_iy0ZQ?e=kJPvqT
 
 Dataset en Kaggle [2]: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset 
 
