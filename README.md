@@ -10,6 +10,7 @@ Debido a las limitaciones de almacenamiento de GitHub, el contenido completo del
 
 Dataset en Kaggle [2]: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset 
 
+Observación: Debido a la calidad de los notebooks, Github no los renderiza pero puede descargarse el repositorio (clonarlo) y visualizar los notebooks desde su dispositivo.
 
 
 ## Estructura del repositorio
